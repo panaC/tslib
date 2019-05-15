@@ -1,6 +1,6 @@
 {
   "name": "@panac/nano",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "build/src/io.js",
   "types": "build/src/io.d.ts",
