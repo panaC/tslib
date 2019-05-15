@@ -2,7 +2,8 @@
   "name": "@panac/nano",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "build/src/io.js",
+  "types": "build/src/io.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
     "check": "gts check",
