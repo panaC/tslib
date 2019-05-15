@@ -1,6 +1,7 @@
 
 # generateuuid
 
+`npm install @panac/generateuuid
 
 ``` js
 const { generateUUID } = require('@panac/generateuuid');

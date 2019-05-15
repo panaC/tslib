@@ -1,6 +1,8 @@
 
 # pipe and compose function
 
+`npm install @panac/pipe-compose`
+
 ### pipe
 
 ``` ts
