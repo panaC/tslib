@@ -31,6 +31,8 @@
     "@types/nano": "^7.0.0",
     "gts": "^1.0.0",
     "tslint": "^5.16.0",
+    "typedoc": "^0.14.2",
+    "typedoc-plugin-markdown": "^1.2.1",
     "typescript": "~3.4.0"
   }
 }
